@@ -2,6 +2,10 @@
 
 This is the final group project of Time Series Analysis with R. 
 
+I analyzed joined data and incorporated weather data from National Center for Environmental Information (NOAA): https://www.ncdc.noaa.gov/cdo-web/ 
+
+My portion of the R script and the final deck can be found in this repo.
+
 Background: 
 
 Metro Bike Share offers convenient round-the-clock access to a fleet of bicycles for short trips and to get to and from transit on your schedule. Metro Bike Share is an additional public transportation option for locals and visitors to get around Downtown LA, Central LA, Pasadena, North Hollywood and the Westside. 
@@ -18,6 +22,3 @@ Data:
 
 https://bikeshare.metro.net/about/data/ (must be imported from the website into R directly)
 
-I analyzed joined data and incorporated weather data from National Center for Environmental Information (NOAA): https://www.ncdc.noaa.gov/cdo-web/ 
-
-My portion of the R script and the final deck can be found in this repo.
